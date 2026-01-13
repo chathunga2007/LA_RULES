@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/04_Property_Injection/pom.xml" />
         <option value="$PROJECT_DIR$/05_Constructor_Injection/pom.xml" />
         <option value="$PROJECT_DIR$/06_Setter_Method_Trough_Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/07_Interface_Trough_Injection/pom.xml" />
       </list>
     </option>
   </component>
