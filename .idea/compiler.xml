@@ -11,6 +11,7 @@
         <module name="01_Tight_Coupling" />
         <module name="04_Property_Injection" />
         <module name="05_Constructor_Injection" />
+        <module name="06_Setter_Method_Trough_Injection" />
       </profile>
     </annotationProcessing>
   </component>
