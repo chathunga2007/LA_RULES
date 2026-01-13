@@ -1,9 +1,14 @@
 package lk.ijse;
 
 public class Boy {
-    Agreement agreement = new Girl();
+    Agreement agreement;
+
+    public Boy(Agreement agreement) {
+        this.agreement = agreement;
+    }
+
     public static void main(String[] args) {
-        Boy boy = new Boy();
+        Boy boy = new Boy(new Girl());
         boy.chatWithGirl01();
         boy.chatWithGirl02();
     }
