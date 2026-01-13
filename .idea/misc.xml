@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/01_Tight_Coupling/pom.xml" />
         <option value="$PROJECT_DIR$/02_Loose_Coupling/pom.xml" />
+        <option value="$PROJECT_DIR$/03_Dependancy_Injection/pom.xml" />
       </list>
     </option>
   </component>
